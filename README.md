@@ -1,7 +1,22 @@
 # HelpDesk Mini
+# 🛠️ HelpDesk Mini
 
-A minimal React + Vite + Tailwind demo containing the HelpDeskMini component.
+HelpDesk Mini is a minimal demonstration project built with **React**, **Vite**, and **Tailwind CSS**. It showcases a HelpDeskMini component designed for helpdesk ticketing systems. The project includes features for managing support tickets with SLA (Service Level Agreement) tracking and comment functionality. It is deployed on **Vercel** and uses a modern JavaScript-based tech stack with **MongoDB** backend integration.
 
+## 📋 Main Function Points
+- 🎟️ Helpdesk ticket management system
+- ⏳ SLA (Service Level Agreement) tracking and monitoring
+- 💬 Comment functionality for ticket discussions
+- ⚛️ Minimal React component demonstration
+- 🛠️ Pre-configured development environment with Vite
+
+## 💻 Technology Stack
+- **Frontend**: React, Vite, Tailwind CSS, JavaScript
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS with JIT support
+- **Backend Integration**: Node.js, MongoDB, MVC architecture
+- **Deployment**: Vercel
+- **Package Manager**: npm
 ## Quick start
 
 1. Install dependencies
@@ -28,3 +43,4 @@ Optional dev dependencies to install if you want improved editor support (not re
 ```powershell
 npm i -D @types/react @types/react-dom
 ```
+
